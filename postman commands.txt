@@ -1,10 +1,4 @@
-Please enter a MongoDB connection string (Default: mongodb://localhost/): mongodb+srv://essermishelle:yuCFDfoNb5pXduP6@cluster0.wwhrp1d.mongodb.net/fruits?retryWrites=true&w=majority
-Please enter a MongoDB connection string (Default: mongodb://localhost/): mongodb+srv://essermishelle:yuCFDfoNb5pXduP6@cluster0.wwhrp1d.mongodb.net/fruits?retryWrites=true&w=majority
-Current Mongosh Log ID: 65c2fefd1cb40ffb8ee83185
-Connecting to:          mongodb+srv://<credentials>@cluster0.wwhrp1d.mongodb.net/fruits?retryWrites=true&w=majority&appName=mongosh+2.1.3
-Using MongoDB:          6.0.13
-Using Mongosh:          2.1.3
-
+Please enter a MongoDB connection string (Default: mongodb://localhost/): 
 For mongosh info see: https://docs.mongodb.com/mongodb-shell/
 
 Atlas atlas-s73dnf-shard-0 [primary] fruits> use db
